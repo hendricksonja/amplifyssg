@@ -13,9 +13,9 @@
 
 Before starting the project you will need the following tools:
 
-* AWS Account 
+* AWS Account (Not AWS Educate, do AWS Free Tier)
 * GitHub Account
-* Git
+* Git (installed natively on Unix/Linux, use git-scm.com for Windows)
 * Node.js & NPM (Optional for local development)
 * Gatsby CLI (Optional for local development)
 
