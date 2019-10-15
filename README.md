@@ -23,7 +23,7 @@ Before starting the project you will need the following tools:
 
 1.  **Clone repository.**
 
-    Open the terminal and go the desired directory.
+    Open the terminal and go the desired directory (create a new folder on your desktop).
 
     ```shell
     # clone the repository using the following command
