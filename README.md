@@ -16,29 +16,29 @@ Before starting the project you will need the following tools:
 * AWS Account (Not AWS Educate, do AWS Free Tier)
 * GitHub Account
 * Git (installed natively on Unix/Linux, use git-scm.com for Windows)
-* Node.js & NPM (Optional for local development)
-* Gatsby CLI (Optional for local development)
 
 ## 🚀 Clone repository and run website locally
 
 1.  **Clone repository.**
 
-    Open the terminal and go the desired directory (create a new folder on your desktop).
+    Create a folder on your computer
+    
+    Open the terminal/git-scm and navigate to the directory that you just created.  
+    
+     ```shell
+    # Use the 'cd' command in the shell to navigate directories and the 'ls' command to list directory contents
+    ```
 
     ```shell
     # clone the repository using the following command
     git clone https://github.com/carloteran19/tmu-blog-amplify.git
     ```
 
-1.  **Install dependencies and run website locally (optional)** 
-
-    Navigate into your new site’s directory and start it up.
+    IMPORTANT: Navigate into your new site’s directory
 
     ```shell
     cd tmu-blog-amplify
-    gatsby develop
     ```
-    Your site is now running at `http://localhost:8000`!
     
 ## 💫 Deploy to AWS Amplify
 
