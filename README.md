@@ -61,11 +61,15 @@ Before starting the project you will need the following tools:
     ```shell
     git push origin master
     ```
+    
+    Verify that the files successfully pushed to Github by looking at your repository at github.com
+    
+    
 2.  **Log into the AWS Amplify Console**
     
     Go to [AWS Amplify](https://console.aws.amazon.com/amplify/home)
     
-    Click on **Get Started**
+    Click on **Get Started** (Deploy)
     
     Select GitHub as your repository service.
     
